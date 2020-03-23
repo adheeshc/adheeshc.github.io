@@ -9555,3 +9555,9 @@ th, td {
   padding: 15px;
   text-align: center;
 }
+
+.project_link{color: #999999;}
+
+.project_link:hover{
+  color:#0000EE 
+}
